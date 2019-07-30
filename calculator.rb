@@ -1,6 +1,6 @@
 # Add your variables here
-var first_number = 5
+first_number = 5
 
-var second_number = 2
+second_number = 2
 
-var sum = first_number + second_number
+sum = first_number + second_number
